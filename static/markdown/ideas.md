@@ -60,60 +60,46 @@
 	- Build unit tests for setting up Monk locally
 	- Create blog posts for every workflow
 	- Prepare documentation about the implementation
-
+	<br/>
 	**Mentors :** Akash Deep Singh
-
+	<br/>
 	**Difficulty Level :** Medium
 
 -----
 
 - Creating Monk-Studio web application
-
-	**Source Code :**
-	[Monk Object Detection](https://github.com/Tessellate-Imaging/Monk_Object_Detection)
-
+	**Source Code :** [Monk Object Detection](https://github.com/Tessellate-Imaging/Monk_Object_Detection)
+	<br/>
 	**Objectives :**
-
-
+	<br/>
 	**Mentors :** Akash Deep Singh
-
+	<br/>
 	**Difficulty Level** : Medium
 
 -----
 
 - Creating a Custom Network Builder web application
-
-	**Source Code :**
-	[Monk Image Classification](https://github.com/Tessellate-Imaging/monk_v1)
-
+	**Source Code :** [Monk Image Classification](https://github.com/Tessellate-Imaging/monk_v1)
+	<br/>
 	**Project Description :**
-
-
+	<br/>
 	**Objectives :** 
-
-
+	<br/>
 	**Mentors :** Abhishek Kumar Annamraju
-
-
+	<br/>
 	**Difficulty Level :** High
 
 -----
 
 - One-Click Model deploy to Cloud
-
-	**Source Code :**
-	
-	[Monk Image Classification](https://github.com/Tessellate-Imaging/monk_v1)
-
+	**Source Code :** [Monk Image Classification](https://github.com/Tessellate-Imaging/monk_v1)
+	<br/>
 	**Project Description :**
-
-
+	<br/>
 	**Objectives :** 
-
-
+	<br/>
 	**Mentors :** Abhishek Kumar Annamraju
-
-
+	<br/>
 	**Difficulty Level :** High
 
 
