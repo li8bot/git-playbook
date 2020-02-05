@@ -9,9 +9,9 @@ Google Summer of Code (GSoC) is a global program that offers post-secondary stud
 <b>We're hoping to participate in GSoC 2020! (Google announces their selections on Feb 20, 2020. Stay tuned for updates!)</b>
 
 Important Links :
-- [Ideas Page](https://github.com/li8bot/gsoc2020/blob/master/ideas.md)
-- [How to apply](https://github.com/li8bot/gsoc2020/blob/master/howtoapply.md)
-- [Get in Touch](https://github.com/li8bot/gsoc2020/blob/master/getintouch.md)
+- [Ideas Page](https://li8bot.github.io/monkai/#/home/gsoc2020/ideaslist)
+- [How to apply](https://li8bot.github.io/monkai/#/home/gsoc2020/howtoapply)
+- [Get in Touch](https://li8bot.github.io/monkai/#/home/gsoc2020/getintouch)
 
 ## How to get started
 
