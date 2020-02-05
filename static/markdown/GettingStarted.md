@@ -1,4 +1,4 @@
-## What is MonkAI
+## What is MonkAI?
 
 MonkAI is a syntax invariant wrapper on popular Deep Learning frameworks like Pytorch, Keras, Mxnet. The goals are to reduce cognitive loads for novice programmers along with a host of features of value to a domain expert.
 

@@ -32,15 +32,16 @@
 	- Create hyper-parameter finder module with tf-2.0 backend
 	- Create custom network builder
 	- Create examples notebooks
+	<br/>
 	**Mentors :** Abhishek Kumar Annamraju
+	<br/>
 	**Difficulty Level :** High
 
 -----
 
 - Creating Object Detection workflows across different imaging modalities
-	**Source Code :**
-	[Monk Object Detection](https://github.com/Tessellate-Imaging/Monk_Object_Detection)
-
+	**Source Code :** [Monk Object Detection](https://github.com/Tessellate-Imaging/Monk_Object_Detection)
+	<br>
 	**Project Description :**
 	Explore state of the art Object Detection research implementations for :
 	1) Thermal Imagery
