@@ -1,6 +1,6 @@
 ## Ideas List
 
--Integrating Tensorflow 2.0 support for Transfer Learning based Image Classification
+- Integrating Tensorflow 2.0 support for Transfer Learning based Image Classification
 	**Source Code :** [Monk Image Classification](https://github.com/Tessellate-Imaging/monk_v1)
 	<br/>
 	**Project Description :**
