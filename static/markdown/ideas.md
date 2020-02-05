@@ -1,10 +1,11 @@
 ## Ideas List
 
-- Integrating Tensorflow 2.0 support for Transfer Learning based Image Classification
-	**Source Code :**
-	[Monk Image Classification](https://github.com/Tessellate-Imaging/monk_v1)
+-Integrating Tensorflow 2.0 support for Transfer Learning based Image Classification
+	**Source Code :** [Monk Image Classification](https://github.com/Tessellate-Imaging/monk_v1)
+	<br/>
 	**Project Description :**
-	Add a low-code wrapper over tensorflow-2.0 as per monk repository's coding standards and backend formats. Goal is to replicate all the modules present in monk's backend (pytorch, keras and mxnet) and create a new one to enable transfer learning and general image classification using tensorflow2.0 backend. 
+	Add a low-code wrapper over tensorflow-2.0 as per monk repository's coding standards and backend formats. Goal is to replicate all the modules present in monk's backend (pytorch, keras and mxnet) and create a new one to enable transfer learning and general image classification using tensorflow2.0 backend.
+	<br/>
 	**Objectives :** 
 	- Pull Monk repository and test in a local setup
 	- Run all the examples present in each backend.
