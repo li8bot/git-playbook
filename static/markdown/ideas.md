@@ -44,7 +44,7 @@ Integrating Tensorflow 2.0 support for Transfer Learning based Image Classificat
 Creating Object Detection workflows across different imaging modalities
 	**Source Code :**
 	[Monk Object Detection](https://github.com/Tessellate-Imaging/Monk_Object_Detection)
-	<br/>
+
 	**Project Description :**
 	Explore state of the art Object Detection research implementations for :
 	1) Thermal Imagery
@@ -63,7 +63,7 @@ Creating Object Detection workflows across different imaging modalities
 	- Build unit tests for setting up Monk locally
 	- Create blog posts for every workflow
 	- Prepare documentation about the implementation
-	<br/>
+
 	**Mentors :** Akash Deep Singh
 
 	**Difficulty Level :** Medium
@@ -80,8 +80,7 @@ Creating Monk-Studio web application
 
 	**Mentors :** Akash Deep Singh
 
-
-	Difficulty Level : Medium
+	**Difficulty Level** : Medium
 
 -----
 
