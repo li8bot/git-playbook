@@ -42,7 +42,6 @@ Add a low-code wrapper over tensorflow-2.0 as per monk repository's coding stand
 
 
 2. Creating Object Detection workflows across different imaging modalities
-
 **Source Code :**
 [Monk Object Detection](https://github.com/Tessellate-Imaging/Monk_Object_Detection)
 
@@ -52,7 +51,7 @@ Explore state of the art Object Detection research implementations for :
 2) Multispectral Satellite Imagery
 3) Biomedical Imagery
 4) Document Imagery
-5) 
+5) Face Recognition
 
 and create a high level wrapper using Monk's syntax.
 
@@ -60,9 +59,11 @@ and create a high level wrapper using Monk's syntax.
 
 - Pull Monk Object Detection repository and test in a local setup
 - Go through Documentation and understand the syntax, implementation modules and pipelines.
-- Explore state of the art algorithms and applications on different imaging modalities
+- Explore state of the art algorithms, datasets and applications on different imaging modalities
 - Create 10 workflows ( 2 for each imaging modality )
 - Build unit tests for setting up Monk locally
+- Create blog posts for every workflow
+- Prepare documentation about the implementation
 
 
 
