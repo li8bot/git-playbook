@@ -37,35 +37,35 @@
 	**Mentors :** Abhishek Kumar Annamraju
 
 
-**Difficulty Level :** High
+	**Difficulty Level :** High
 
 
 - Creating Object Detection workflows across different imaging modalities
-**Source Code :**
-[Monk Object Detection](https://github.com/Tessellate-Imaging/Monk_Object_Detection)
-<br/>
-**Project Description :**
-Explore state of the art Object Detection research implementations for :
-1) Thermal Imagery
-2) Multispectral Satellite Imagery
-3) Biomedical Imagery
-4) Document Imagery
-5) Face Recognition
-<br/>
-and create a high level wrapper using Monk's syntax.
-<br/>
-**Objectives :**
-- Pull Monk Object Detection repository and test in a local setup
-- Go through Documentation and understand the syntax, implementation modules and pipelines.
-- Explore state of the art algorithms, datasets and applications on different imaging modalities
-- Create 10 workflows ( 2 for each imaging modality )
-- Build unit tests for setting up Monk locally
-- Create blog posts for every workflow
-- Prepare documentation about the implementation
-<br/>
-**Mentors :** Akash Deep Singh
-<br/>
-**Difficulty Level :** Medium
+	**Source Code :**
+	[Monk Object Detection](https://github.com/Tessellate-Imaging/Monk_Object_Detection)
+	<br/>
+	**Project Description :**
+	Explore state of the art Object Detection research implementations for :
+	1) Thermal Imagery
+	2) Multispectral Satellite Imagery
+	3) Biomedical Imagery
+	4) Document Imagery
+	5) Face Recognition
+	<br/>
+	and create a high level wrapper using Monk's syntax.
+	<br/>
+	**Objectives :**
+	- Pull Monk Object Detection repository and test in a local setup
+	- Go through Documentation and understand the syntax, implementation modules and pipelines.
+	- Explore state of the art algorithms, datasets and applications on different imaging modalities
+	- Create 10 workflows ( 2 for each imaging modality )
+	- Build unit tests for setting up Monk locally
+	- Create blog posts for every workflow
+	- Prepare documentation about the implementation
+	<br/>
+	**Mentors :** Akash Deep Singh
+	<br/>
+	**Difficulty Level :** Medium
 
 3. Creating Monk-Studio web application
 
