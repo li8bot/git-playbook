@@ -1,6 +1,6 @@
 ## Ideas List
 
-- Integrating Tensorflow 2.0 support for Transfer Learning based Image Classification
+Integrating Tensorflow 2.0 support for Transfer Learning based Image Classification
 	**Source Code :**
 	[Monk Image Classification](https://github.com/Tessellate-Imaging/monk_v1)
 	<br/>
@@ -39,8 +39,9 @@
 
 	**Difficulty Level :** High
 
+-----
 
-- Creating Object Detection workflows across different imaging modalities
+Creating Object Detection workflows across different imaging modalities
 	**Source Code :**
 	[Monk Object Detection](https://github.com/Tessellate-Imaging/Monk_Object_Detection)
 	<br/>
@@ -64,10 +65,12 @@
 	- Prepare documentation about the implementation
 	<br/>
 	**Mentors :** Akash Deep Singh
-	<br/>
+
 	**Difficulty Level :** Medium
 
-- Creating Monk-Studio web application
+-----
+
+Creating Monk-Studio web application
 
 	**Source Code :**
 	[Monk Object Detection](https://github.com/Tessellate-Imaging/Monk_Object_Detection)
@@ -80,7 +83,9 @@
 
 	Difficulty Level : Medium
 
-- Creating a Custom Network Builder web application
+-----
+
+Creating a Custom Network Builder web application
 
 	**Source Code :**
 	[Monk Image Classification](https://github.com/Tessellate-Imaging/monk_v1)
@@ -96,7 +101,9 @@
 
 	**Difficulty Level :** High
 
-- One-Click Model deploy to Cloud
+-----
+
+One-Click Model deploy to Cloud
 
 	**Source Code :**
 	
