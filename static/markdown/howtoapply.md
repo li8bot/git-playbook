@@ -6,7 +6,7 @@ Choose a project (check the [list](https://li8bot.github.io/monkai/#/home/gsoc20
 
 Prepare a patch for that project. We expect students to fix a bug and have made a pull request (or equivalent). 
 
-Your code doesn't have to be accepted and merged, but it does have to be visible to the public and it does have to be your own work (mentor help is ok, code you didn't write is not).
+Your code doesn't have to be accepted and merged, but it does have to be visible to the public and it does have to be your own work (mentor help is ok, code you don't own and didn't write is not).
 
 Write your application (with help from your mentors!) 
 
