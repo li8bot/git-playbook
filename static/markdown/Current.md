@@ -1,3 +1,3 @@
 ## Latest Updates
 
-* 06-02-2020 -- Checkout the [GSoC](http://localhost:8080/#/home/gsoc2020) page for idea list.
+* 06-02-2020 -- Checkout the [GSoC](https://li8bot.github.io/monkai/#/home/gsoc2020) page for idea list.
