@@ -1,8 +1,8 @@
 ## Short application checklist:
 
-Read the links and instructions -- All of it! we've tried to give you all the information you need to be an awesome student applicant.
+Read the links and instructions -- All of it! We've tried to give you all the information you need to be an awesome student applicant.
 
-Choose a project (check the [list](https://github.com/li8bot/gsoc2020/blob/master/ideas.md) here). 
+Choose a project (check the [list](https://li8bot.github.io/monkai/#/home/gsoc2020/ideaslist) here). 
 
 Prepare a patch for that project. We expect students to fix a bug and have made a pull request (or equivalent). 
 
