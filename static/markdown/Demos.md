@@ -5,7 +5,7 @@
 <br/>
 
 <a href="https://github.com/Tessellate-Imaging/Monk_Object_Detection/tree/master/example_notebooks/8_pytorch_rfbnet" target="_blank">Aerial Traffic Surveillance with Pytorch RFBNet</a>
-<img src="" alt="Aerial Traffic Surveillance" width=500px>
+<img src="static/img/aerial.gif" alt="Aerial Traffic Surveillance" width=500px>
 
 <br/>
 <br/>
@@ -28,20 +28,14 @@
 <br/>
 <br/>
 
-<a href="https://github.com/Tessellate-Imaging/Monk_Object_Detection/tree/master/example_notebooks/1_gluoncv_finetune" target="_blank">Helmet Detection</a>
-<img src="static/img/helmet.gif" alt="Helmet Detection" width=500px>
-
-<br/>
-<br/>
-
 <a href="https://github.com/Tessellate-Imaging/Monk_Object_Detection/tree/master/example_notebooks/5_pytorch_retinanet" target="_blank">Indoor Image Object Detection</a>
-<img src="" alt="Indoor Object Detection" width=500px>
+<img src="static/img/indoor.gif" alt="Indoor Object Detection" width=500px>
 
 <br/>
 <br/>
 
 <a href="https://github.com/Tessellate-Imaging/Monk_Object_Detection/tree/master/example_notebooks/7_yolov3" target="_blank">Grape Detection with YOLOv3</a>
-<img src="" alt="Grape Detection" width=500px>
+<img src="static/img/grapes.gif" alt="Grape Detection" width=500px>
 
 <br/>
 <br/>
